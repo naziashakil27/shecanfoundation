@@ -5,7 +5,7 @@ She Can Foundation is a non-governmental organization registered under the India
 ### 🌐 Live Deployments & Source
 *   🐙 **[GitHub Repository](https://github.com/naziashakil27/shecanfoundation)**
 *   🚀 **[Live Showcase Website](https://naziashakil27.github.io/shecanfoundation/)**
-*   ⚡ **[Vercel Deployment Mirror](https://shecanfoundation-delta.vercel.app/)** *(If configured)*
+*   ⚡ **[Vercel Live Site](https://shecanfoundation-opal.vercel.app/)**
 
 ---
 
